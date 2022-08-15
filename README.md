@@ -9,7 +9,7 @@
 - Website Link to Dataset: <https://ieee-dataport.org/open-access/mqtt-iot-ids2020-mqtt-internet-things-intrusion-detection-dataset>.
 #### MQTT INTERNET OF THINGS INTRUSION DETECTION DATASET
 
-#### API that are used in this Project
+#### APIs that are used in this Project
 - tensorflow
 - sklearn
 - keras
@@ -17,6 +17,17 @@
 - numpy
 - pandas
 - warnings
+
+#### Workflow that is used in this Project
+- Data Processing
+- Data Normalization
+- Binary Class Classification
+- Multi Class Classification
+- Feature Extraction (BC and MC)
+- Artificial Neural Network Model (ANN)
+- Visualization Accuracy and Loss
+- Classification Report
+- Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, and R2 Score
 
 ## Paper vs Proposed Results: DNN vs ANN netowrks
 
