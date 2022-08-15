@@ -44,11 +44,19 @@
 
 - Bi-flow Features Paper: 98.12%
 - Bi-flow Features Proposed: 99.70%
+- ![image](https://user-images.githubusercontent.com/74346775/184626701-25c7b791-b66e-4f29-b427-1833033a4043.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626769-38636742-27a1-4b6b-9e99-b614d760357d.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626807-d9d9cf26-c08f-4143-bd85-34e8f1f607be.png)
 
 - Ui-flow Features Paper: 97.08%
 - Ui-flow Features Paper: 99.71%
+- ![image](https://user-images.githubusercontent.com/74346775/184626880-2a061018-699e-4815-baaa-b98907a701fd.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626923-8fce8204-e8a1-4418-949d-5884ee741e0b.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626962-5c9ec2ba-60ab-4122-bd2b-c47f8ba0cf2a.png)
 
 - Packet-flow Features Paper: 90.79%
 - Packet-flow Features Paper: 92.86%
-
+- ![image](https://user-images.githubusercontent.com/74346775/184626997-67851ce8-a3e1-463b-a8c2-dfabbd18c5f2.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184627040-3688eb80-6692-4dd0-8f6b-7746dec47a31.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184627138-4c98b516-aa50-483c-b4f9-f91f13bb2139.png)
 
