@@ -26,12 +26,19 @@
 - Bi-flow Features Proposed: 99.85%
 - ![image](https://user-images.githubusercontent.com/74346775/184626036-9cdf59cf-fde2-46cc-9af3-844d0fe70723.png)
 - ![image](https://user-images.githubusercontent.com/74346775/184626150-9a6f98db-b45c-40d7-b3cb-579c8ab9f6f2.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626300-7e0a63dc-4b8b-4ff0-bac8-1d6cb492c8c0.png)
 
 - Ui-flow Features Paper: 99.92%
 - Ui-flow Features Paper: 99.79%
+- ![image](https://user-images.githubusercontent.com/74346775/184626355-958488e9-64c9-404b-a2ff-732f42b84fb7.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626386-9de5528e-f7f6-4a0a-96a8-7abdf0f139eb.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626451-21232b91-0cac-4dfe-aa69-b5738ba7426e.png)
 
 - Packet-flow Features Paper: 94.94%
 - Packet-flow Features Paper: 94.36%
+- ![image](https://user-images.githubusercontent.com/74346775/184626492-1f96dc18-475d-45ac-8878-153a475cc84c.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626549-c1b197c4-ae54-49b1-afbd-779ef947f6d9.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626596-94a59fac-d84a-4e50-bd96-3d2aecc557ef.png)
 
 #### Multi Class Classification
 
