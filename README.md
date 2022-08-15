@@ -24,6 +24,8 @@
 
 - Bi-flow Features Paper: 99.75%
 - Bi-flow Features Proposed: 99.85%
+- ![image](https://user-images.githubusercontent.com/74346775/184626036-9cdf59cf-fde2-46cc-9af3-844d0fe70723.png)
+- ![image](https://user-images.githubusercontent.com/74346775/184626150-9a6f98db-b45c-40d7-b3cb-579c8ab9f6f2.png)
 
 - Ui-flow Features Paper: 99.92%
 - Ui-flow Features Paper: 99.79%
