@@ -27,7 +27,6 @@
 - matplotlib
 - numpy
 - pandas
-- warnings
 
 ## Paper vs Proposed Results: DNN vs ANN netowrks
 
